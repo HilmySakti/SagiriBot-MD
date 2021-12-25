@@ -21,20 +21,20 @@ let tags = {
 }
 const defaultMenu = {
   before: `
-╭─「 %me 」
-│ Hai, %name!
-│
-│ Tersisa *%limit Limit*
-│ Role *%role*
-│ Level *%level (%exp / %maxexp)* [%xp4levelup lagi untuk levelup]
-│ %totalexp XP in Total
-│ 
-│ Tanggal: *%week %weton, %date*
-│ Tanggal Islam: *%dateIslamic*
-│ Waktu: *%time*
-│
-│ Runtime: *%uptime*
-╰────
+❍「 %me 」
+│❥ Hai, %name!
+│❥
+│❥ Tersisa *%limit Limit*
+│❥ Role *%role*
+│❥ Level *%level (%exp / %maxexp)* [%xp4levelup lagi untuk levelup]
+│❥ %totalexp XP in Total
+│❥ 
+│❥ Tanggal: *%week %weton, %date*
+│❥ Tanggal Islam: *%dateIslamic*
+│❥ Waktu: *%time*
+│❥
+│❥ Runtime: *%uptime*
+❍ ───
 %readmore`.trimStart(),
   header: '❍「 %category 」',
   body: '❥  %cmd %islimit %isPremium',
@@ -207,7 +207,7 @@ handler.admin = false
 handler.botAdmin = false
 
 handler.fail = null
-handler.exp = 3
+handler.exp = false
 
 module.exports = handler
 
