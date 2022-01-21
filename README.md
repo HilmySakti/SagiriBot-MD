@@ -32,8 +32,10 @@
 
 <h3 align="center">Made by :</h3>
 <p align="center">
-  <a href="https://github.com/ilmanhdyt"><img src="https://github.com/ilmanhdyt.png?size=128" height="128" width="128" /></a>
-  <a href="https://github.com/BochilGaming"><img src="https://github.com/BochilGaming.png?size=128" height="128" width="128" /></a>
+  <a href="https://github.com/ilmanhdyt"><img src="https://github.com/ilmanhdyt.png?size=128" height="100" width="100" /></a>
+  <a href="https://github.com/BochilGaming"><img src="https://github.com/BochilGaming.png?size=100" height="100" width="100" /></a>
+  <a href="https://github.com/HilmySakti"><img src="https://github.com/HilmySakti.png?size=100" height="100" width="100" /></a>
+  <a href="https://github.com/Nurutomo"><img src="https://github.com/Nurutomo.png?size=100" height="100" width="100" /></a>
 </p>
 
 ## How To Change Menu Display
@@ -150,10 +152,10 @@ Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was sa
 ```
 
 # Thanks to
- [![Nurutomo](https://github.com/Nurutomo.png?size=150)](https://github.com/Nurutomo) | [![Ilman](https://github.com/ilmanhdyt.png?size=150)](https://github.com/ilmanhdyt) | [![Istikmal](https://github.com/BochilGaming.png?size=150)](https://github.com/BochilGaming)
-----|----|----
-[Nurutomo](https://github.com/Nurutomo) | [Ilman](https://github.com/ilmanhdyt) | [Istikmal](https://github.com/BochilGaming)
- Author | Recode | yg sering ngebantu 😅
+ [![Nurutomo](https://github.com/Nurutomo.png?size=150)](https://github.com/Nurutomo) | [![Ilman](https://github.com/ilmanhdyt.png?size=150)](https://github.com/ilmanhdyt) | [![Istikmal](https://github.com/BochilGaming.png?size=150)](https://github.com/BochilGaming) | [![HilmySakti](https://github.com/HilmySakti.png?size=150)](https://github.com/HilmySakti) 
+----|----|----|----
+[Nurutomo](https://github.com/Nurutomo) | [Ilman](https://github.com/ilmanhdyt) | [Istikmal](https://github.com/BochilGaming) | [HilmySakti](https://github.com/HilmySakti)
+ Author | Recode | yg sering ngebantu 😅 | Recode2 
 
 ## Donate
 - [Saweria](https://saweria.co/ilmanhdyt)
